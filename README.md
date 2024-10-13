@@ -3,9 +3,8 @@
 - Php 8.1
 
 ## Installation
-```sh
-git clone https://github.com/Samir-Gamal/hospital-management-system.git
-cd hospital-management-system
+git clone https://github.com/haroonalsharaby12/hospital-management.git
+cd hospital-management
 cp .env.example .env
 composer install
 php artisan key:generate
