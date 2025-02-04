@@ -1,7 +1,4 @@
 
-## Requirements
-- Php 8.1
-
 ## Installation
 git clone https://github.com/haroonalsharaby12/hospital-management.git
 cd hospital-management
